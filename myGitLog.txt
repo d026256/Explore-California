@@ -1,0 +1,45 @@
+Date:   Fri Dec 23 11:08:08 2016 +0100
+
+    no contact on home page
+
+commit 839f40de33b43f5d43b83e0f35eccc1aff58b42b
+Author: Christian Mahr <christian.mahr@sap.com>
+Date:   Fri Dec 23 11:07:38 2016 +0100
+
+    no mission on home page
+
+commit d7d918c6b0d6248cdbba936480654a27307b35dc
+Author: Christian Mahr <christian.mahr@sap.com>
+Date:   Thu Dec 22 20:53:34 2016 +0100
+
+    alles wieder da
+
+commit 299de17178cd81aab6f6230eda254824149ae891
+Author: Christian Mahr <christian.mahr@sap.com>
+Date:   Thu Dec 22 20:29:26 2016 +0100
+
+    still some lines deleted
+
+commit 9d1833248766be941a362623f2be238e7b33f765
+Author: Christian Mahr <christian.mahr@sap.com>
+Date:   Thu Dec 22 20:11:17 2016 +0100
+
+    rename shortcuts
+
+commit bd73c39dca9f5518cfdc29afdc5cd29be7a0d82a
+Author: Christian Mahr <christian.mahr@sap.com>
+Date:   Thu Dec 22 20:11:00 2016 +0100
+
+    renamed back pack cal
+
+commit 8dfe9740d49b8c8e65e1239b73c2c2c48f23e4f3
+Author: Christian Mahr <christian.mahr@sap.com>
+Date:   Thu Dec 22 20:02:07 2016 +0100
+
+    telephone number changed to xxx
+
+commit 5ccbc685827db10efbc4a02a2c836ab4fe100848
+Author: Christian Mahr <christian.mahr@sap.com>
+Date:   Thu Dec 22 19:51:54 2016 +0100
+
+    Initial commit
